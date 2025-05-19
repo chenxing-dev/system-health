@@ -1,0 +1,3 @@
+- `Disk Usage (Root): 2%` -> `Disk Usage (Root): 45% used / 55G free`
+- Top `n` Processes by CPU:
+- Monitor additional metrics (network, swap)
