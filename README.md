@@ -4,6 +4,8 @@
 
 A Bash script for system monitoring.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 - 📊 **System Health Monitoring**
@@ -29,11 +31,6 @@ cd system-health
 ```bash
 chmod +x system_health.sh
 ```
-
-## Extending the Script
-
-Suggested enhancements:
-- Monitor additional metrics (network, swap)
 
 ## License
 [MIT License](LICENSE)
